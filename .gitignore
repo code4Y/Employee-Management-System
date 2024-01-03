@@ -1,0 +1,36 @@
+# React-specific
+/node_modules
+/.pnp
+.pnp.js
+/build
+/.idea
+/.vscode
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Java/Spring-specific
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.ser
+*.bak
+*.off
+*.old
+*.swp
+*.rej
+*~
+.classpath
+.project
+.settings
+.mvn
